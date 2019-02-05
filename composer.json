@@ -1,0 +1,14 @@
+{
+    "name": "parzibyte/generar_codigos",
+    "description": "Demostraci\u0000n para generar c\u0000digos de barras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "contacto@parzibyte.me"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^0.3.0"
+    }
+}
